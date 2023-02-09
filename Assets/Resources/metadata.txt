@@ -1,0 +1,90 @@
+[TEST_AREA]
+Icon = 0
+Outdoor = True
+
+[PlayerHome]
+Icon = 0
+Outdoor = True
+
+[Farm]
+Icon = 3
+Outdoor = True
+
+[Village]
+Icon = 1
+Outdoor = True
+
+[Church]
+Icon = 2
+Outdoor = True
+
+[River_Down]
+Icon = 4
+Outdoor = True
+
+[Fisherman_House]
+Icon = 5
+Outdoor = True
+
+[Forbiden_Forest]
+Icon = 6
+Outdoor = True
+
+[River_Up]
+Icon = 7
+Outdoor = True
+
+[Forest_Left]
+Icon = 8
+Outdoor = True
+
+[Forest_Right]
+Icon = 9
+Outdoor = True
+
+[Mountains]
+Icon = 10
+Outdoor = True
+
+[Swamp]
+Icon = 11
+Outdoor = True
+
+[Witch_Lair]
+Icon = 12
+Outdoor = True
+
+
+# ----------------------------------
+
+[PlayerHome_PlayerHouse]
+Icon = 0
+Outdoor = False
+
+[Farm_FarmerHouse]
+Icon = 3
+Outdoor = False
+
+[FishermanHouse_House]
+Icon = 5
+Outdoor = False
+
+[Church_Inside]
+Icon = 2
+Outdoor = False
+
+[Village_Inside1]
+Icon = 1
+Outdoor = False
+
+[Village_Inside2]
+Icon = 1
+Outdoor = False
+
+[Village_Inside3]
+Icon = 1
+Outdoor = False
+
+[Village_Inside4]
+Icon = 1
+Outdoor = False

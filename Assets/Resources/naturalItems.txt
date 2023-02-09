@@ -1,0 +1,57 @@
+[River_Down]
+Spots = 5
+Items = MEDICINAL_HERBS,OPIUM_FLOWER
+
+# ----------------------------------
+
+[Mountains]
+Spots = 6
+Items = LIFE_CRYSTAL,BALANCE_CRYSTAL,MADNESS_CRYSTAL,BROKEN_CRYSTAL,DARKNESS_CRYSTAL,ENERGY_CRYSTAL,LOVE_CRYSTAL
+
+# ----------------------------------
+
+[River_Up]
+Spots = 4
+Items = LEMON,TRANSPARENT_MUSHROOM
+
+# ----------------------------------
+
+[Forest_Right]
+Spots = 6
+Items = TRANSPARENT_FLOWER,BLUEBERRY,EVIL_FLOWER,MISTLETOE
+
+# ----------------------------------
+
+[Forest_Left]
+Spots = 5
+Items = STRAWBERRY,NIGHT_FLOWER,RED_MUSHROOM
+
+# ----------------------------------
+
+[Fisherman_House]
+Spots = 4
+Items = ROSE,ARTICHOKE
+
+# ----------------------------------
+
+[Witch_Lair]
+Spots = 4
+Items = BAT_WING,STRANGE_MUSHROOM,ONION,BLINDNESS_FLOWER
+
+# ----------------------------------
+
+[Swamp]
+Spots = 5
+Items = BLINDNESS_MUSHROOM,GINGER,MINT
+
+# ----------------------------------
+
+[Farm]
+Spots = 8
+Items = BLACK_RADISH,WEED,GARLIC,COFFEE_BEAN
+
+# ----------------------------------
+
+[Village]
+Spots = 3
+Items = SUGAR,TORMENT_OIL

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: cf0bbc849eee3a940ae0e6998fe4e9cd
+  - enabled: 1
+    path: Assets/Scenes/Introduction.unity
+    guid: f96d041f175832c4bb4de321f197dd7c
+  - enabled: 1
+    path: Assets/Scenes/DEBUG AREAS/TEST_AREA.unity
+    guid: 8d3d0aa9fdad7e2409576bb5b1b217aa
+  - enabled: 1
+    path: Assets/Scenes/NightScreen.unity
+    guid: 114c5589e72f0934caff1a3a782455a9
+  - enabled: 1
+    path: Assets/Scenes/Levels/Village.unity
+    guid: b04f1d2aa2816554cb7c48143ad85c68
+  - enabled: 1
+    path: Assets/Scenes/Levels/PlayerHome.unity
+    guid: 4427d2089888f664b9d4ba032b748b60
+  - enabled: 1
+    path: Assets/Scenes/Levels/Farm.unity
+    guid: ca6e6dec8f2a45846be855f0fcc8b8de
+  - enabled: 1
+    path: Assets/Scenes/Levels/Church.unity
+    guid: 313ecde55804f66478b0e421e70e746d
+  - enabled: 1
+    path: Assets/Scenes/Levels/River_Down.unity
+    guid: 269a6d92c3ec88d40888677917405b34
+  - enabled: 1
+    path: Assets/Scenes/Levels/River_Up.unity
+    guid: 8ed0f65b18c95d0499bf80756afe41bb
+  - enabled: 1
+    path: Assets/Scenes/Levels/Fisherman_House.unity
+    guid: e37bffbaaded6b24db90fcd68a145ca0
+  - enabled: 1
+    path: Assets/Scenes/Levels/Forbiden_Forest.unity
+    guid: be534220e97cf96449ca1e2400fbf58d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Swamp.unity
+    guid: 1930e0de66f33d54ca9e96ca811211fb
+  - enabled: 1
+    path: Assets/Scenes/Levels/Witch_Lair.unity
+    guid: a2e4dd090f76fc54891b79f87a8e5a5e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Forest_Left.unity
+    guid: 2d554e3b1a69bb24fba3ef09a0f13e47
+  - enabled: 1
+    path: Assets/Scenes/Levels/Forest_Right.unity
+    guid: ae8b1c2d9c3749e46bbf06f23079436d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Mountains.unity
+    guid: 885c31229ed07c648b655753ba50bec5
+  - enabled: 1
+    path: Assets/Scenes/Houses/PlayerHome_PlayerHouse.unity
+    guid: 71e2ce4b6c58d6d4ba04486662e2b7ec
+  - enabled: 1
+    path: Assets/Scenes/Houses/Farm_FarmerHouse.unity
+    guid: 8a70174cf824e4a438164b5756ff5ad1
+  - enabled: 1
+    path: Assets/Scenes/Houses/FishermanHouse_House.unity
+    guid: c5b8f1e5c37b4a947876b97ef6d5b2c6
+  - enabled: 1
+    path: Assets/Scenes/Houses/Church_Inside.unity
+    guid: bfa8dd7f1aba55945b6036aa2c8ae767
+  - enabled: 1
+    path: Assets/Scenes/Houses/Village_Inside1.unity
+    guid: 68fedff45990ab24c8f90e63896efb20
+  - enabled: 1
+    path: Assets/Scenes/Houses/Village_Inside2.unity
+    guid: 2fa87af819b28c145aefb19b599ca5ae
+  - enabled: 1
+    path: Assets/Scenes/Houses/Village_Inside3.unity
+    guid: 35ee74f5e5fdfd249a4bb0b241564987
+  - enabled: 1
+    path: Assets/Scenes/Houses/Village_Inside4.unity
+    guid: 878c58c438ff2084abeb24ff09ce33af
+  m_configObjects: {}

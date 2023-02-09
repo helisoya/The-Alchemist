@@ -1,0 +1,84 @@
+#------------------ DEBUG -----------------------------------
+
+
+OOF = OOF
+OOF_dlg1_1 = OOOOOOOOOOOOOOOOOOOOOOFFFFFFFFFFFFFFFFFFFFF !!!
+OOF_dlg1_2 = LOL XD !!!!
+OOF_dlg1_3 = Do you prefer Windows or Linux ???
+OOF_dlg1_choice1 = Windows
+OOF_dlg1_choice2 = Linux
+OOF_dlg1_4 = Yay ! Good awnser !
+OOF_dlg1_5 = LOL ! You are hopeless !
+
+
+#------------------ Intro du jeu -----------------------------------
+
+Introduction_1 = I live peacefully in Pingu City where I study to become a teacher.
+Introduction_2 = It is hard, but I hope to become the best teacher in the country.
+Introduction_3 = But, that's what I thought...
+Introduction_4 = I received a letter from the mayor this morning. This is not good.
+Introduction_5 = My grand-uncle, Sandi Clay, died. He was a knowed alchemist in the Fouzi region.
+Introduction_6 = He gave me his alchemist shop so that I could become a "great alchemist".
+Introduction_7 = But... Do I really want to stop everything to go there ?
+Introduction_8 = I studied so much... It would be a waste to sacrifice it to potions.
+Introduction_choice_1 = Become an Alchemist
+Introduction_choice_2 = Stay at Pingu City
+Introduction_end_1 = No ! I will be the master of my destiny.
+Introduction_end_2 = I will stay here to continue studying until I become a great teacher.
+Introduction_end_3 = 30 YEARS LATER...
+Introduction_end_4 = It has been years since I started teaching students.
+Introduction_end_5 = I am the best now ! I teach the best system lessons.
+Introduction_end_6 = I did well not to go to the Fouzi region.
+Introduction_9 = And this is how I went to the Fouzi region.
+Introduction_10 = I hope to become a great alchemist, juste like my grand-uncle.
+
+
+# -------------------- Others -------------------
+
+Witch = I don't want to go in there. It would be bad for me.
+
+
+# -------------------- HELP THE FARMER -----------------------
+
+FARMER = Farmer
+HELP_THE_FARMER_ASK_1 = Alchemist ! I need your talents right now !
+HELP_THE_FARMER_ASK_2 = Make me a minor healing potion, I need it to heal my sick daughter.
+
+HELP_THE_FARMER_End_1 = Thank you, Alchemist ! Now my daughter can finaly be healed.
+HELP_THE_FARMER_End_2 = Take these coins as a reward.
+
+NPC1_Default_1 = My work here is very important : I feed the entire village with my crops.
+
+
+
+# ---------------------- Fisherman ------------------------
+
+FISHERMAN = Fisherman
+HELP_FISHERMAN_ASK_1 = I need your help, young alchemist.
+HELP_FISHERMAN_ASK_2 = Make a a cough remedy, I need it to cure my coughing problems.
+
+HELP_FISHERMAN_End_1 = You have the remedy ? Perfect ! I can stop coughing now.
+HELP_FISHERMAN_End_2 = Take these coins as a reward.
+
+NPC2_Default_1 = I fish mostly for myself, but I sometimes sell my catchs to the village.
+
+
+# ---------------------- Priest ------------------------
+
+PRIEST = Priest
+HOLY_WATER_ASK_1 = I fear I need you help, young one.
+HOLY_WATER_ASK_2 = Could you make a me an elixir of transandance ? I need it for a ritual.
+
+HOLY_WATER_End_1 = You made the elixir ? You are indeed a very good alchemist.
+HOLY_WATER_End_2 = Take these coins as a reward.
+
+NPC4_Default_1 = I spend most of my time here so that anyone can come pray our gods.
+
+
+# ------------------- Villagers ------------------------
+
+VILLAGER = Villager
+NPC3_Default_1 = I like shorts ! They are so cool !
+NPC5_Default_1 = I heard there are rare stones in the mountains.
+NPC6_Default_1 = The forbiden forest is rumored to be full of ghosts.
+NPC7_Default_1 = Hi ! How are you on this fine day ?

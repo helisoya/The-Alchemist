@@ -1,0 +1,8 @@
+MUGSHOT(oof)
+DIALOG(OOF,OOF_dlg1_1)
+DIALOG(OOF,OOF_dlg1_2)
+DIALOG(OOF,OOF_dlg1_3)
+{
+	CHOICE(OOF_dlg1_choice1,testDialog_1)	
+	CHOICE(OOF_dlg1_choice2,testDialog_2)	
+}

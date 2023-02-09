@@ -1,0 +1,2 @@
+MUGSHOT(oof)
+DIALOG(FISHERMAN,NPC2_Default_1)

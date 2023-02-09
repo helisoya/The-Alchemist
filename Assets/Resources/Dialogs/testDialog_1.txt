@@ -1,0 +1,2 @@
+MUGSHOT(oof)
+DIALOG(OOF,OOF_dlg1_4)

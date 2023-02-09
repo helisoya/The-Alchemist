@@ -1,0 +1,83 @@
+# ---------- Game -------------
+
+null =  
+Game_Currency = Or
+
+Day_0 = Lun.
+Day_1 = Mar.
+Day_2 = Mer.
+Day_3 = Jeu.
+Day_4 = Ven.
+Day_5 = Sam.
+Day_6 = Dim.
+
+# -------------- Zones ------------------
+
+TEST_AREA_Name = Zone Debug
+PlayerHome_Name = Maison du Joueur
+PlayerHome_PlayerHouse_Name = Maison du Joueur
+Village_Name = Village
+Village_Inside1_Name = Village
+Village_Inside2_Name = Village
+Village_Inside3_Name = Village
+Village_Inside4_Name = Village
+Church_Name = Eglise
+Church_Inside_Name = Eglise
+Farm_Name = Ferme
+Farm_FarmerHouse_Name = Ferme
+River_Down_Name = Riviere (Sud)
+River_Up_Name = Riviere (Nord)
+Fisherman_House_Name = Maison du pecheur
+FishermanHouse_House_Name = Maison du pecheur
+Forbiden_Forest_Name = Forêt Interdite
+Swamp_Name = Marais
+Witch_Lair_Name = Hute de la Sorcière
+Forest_Left_Name = Forêt (Gauche)
+Forest_Right_Name = Forêt (Droite)
+Mountains_Name = Montagnes
+
+# ------------- Title Screen ---------------
+
+TitleScreen_Quit = Quitter
+TitleScreen_Play = Jouer
+TitleScreen_Debug = Continuer
+TitleScreen_About = Developpeur : Helisoya Testeurs : Helisoya, T.N, T.M
+TitleScreen_? = ?
+TitleScreen_X = X
+
+# ------------ Menus --------------
+
+Settings_Quality = Qualité
+Quit_Desktop = Retour au bureau
+Quit_Title = Retour à l'écran titre
+
+Machine_All = Tout
+Machine_Cauldron = Chaudron
+Machine_Alembic = Alambic
+Machine_Enchanter = Enchanteur
+
+Craft_Label = Combiner
+
+
+# ---------- Quests ------------------
+
+Quest_TUTORIAL_Name = Les bases
+Quest_TUTORIAL_Description = Je dois comprendre les bases de la fabrication de potion pour devenir un alchimiste.
+Quest_TUTORIAL_0 = Trouvez x1 herbe médicinale vers la rivière.
+Quest_TUTORIAL_1 = Créez une potion de soin grâce au Chaudron.
+
+
+Quest_HELP_THE_FARMER_Name = Aider le fermier
+Quest_HELP_THE_FARMER_Description = Le fermier a besoin de mon aide pour soigner sa fille.
+Quest_HELP_THE_FARMER_0 = Créez une potion de soin mineure.
+Quest_HELP_THE_FARMER_1 = Apportez la potion au fermier.
+
+Quest_HELP_FISHERMAN_Name = Aider le pecheur
+Quest_HELP_FISHERMAN_Description = Le pecheur a des problèmes de gorge, je dois l'aider.
+Quest_HELP_FISHERMAN_0 = Créez un remède contre la toux (Niveau 2).
+Quest_HELP_FISHERMAN_1 = Apportez la potion au pecheur.
+
+Quest_HOLY_WATER_Name = Eau bénite
+Quest_HOLY_WATER_Description = Le prêtre a besoin d'une elixire de transandance pour un rituel.
+Quest_HOLY_WATER_0 = Créez une elixire de transandance (Niveau 3).
+Quest_HOLY_WATER_1 = Apportez l'elixire au prêtre.

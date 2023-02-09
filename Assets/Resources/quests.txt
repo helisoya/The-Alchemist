@@ -1,0 +1,20 @@
+[TUTORIAL]
+Reward = 50
+MaxPhases = 2
+Phase_1 = MINOR_HEALING_POTION
+
+[HELP_THE_FARMER]
+Reward = 70
+MaxPhases = 2
+Phase_0 = MINOR_HEALING_POTION
+
+
+[HELP_FISHERMAN]
+Reward = 70
+MaxPhases = 2
+Phase_0 = COUGH_REMEDY
+
+[HOLY_WATER]
+Reward = 250
+MaxPhases = 2
+Phase_0 = ELIXIR_OF_TRANSANDANCE

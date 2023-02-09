@@ -1,0 +1,669 @@
+#====================================================
+#======================Potions=======================
+#====================================================
+
+
+
+#----------------------Healing-----------------------
+
+[MINOR_HEALING_POTION]
+Type = USEABLE
+Price = 10
+Attributes = HEALING,25
+
+#----------------------------------------------------
+
+[HEALING_POTION]
+Type = USEABLE
+Price = 50
+Attributes = HEALING,50
+
+
+#----------------------------------------------------
+
+[LIFE_ELIXIR]
+Type = USEABLE
+Price = 500
+Attributes = HEALING,9999
+
+
+#-------------------Pulmon problems------------------
+
+[SORE_THROAT_POTION]
+Type = USEABLE
+Price = 15
+Attributes = HEALING,0
+
+#----------------------------------------------------
+
+[COUGH_REMEDY]
+Type = USEABLE
+Price = 60
+Attributes = HEALING,0
+
+#----------------------------------------------------
+
+[LUNG_ELIXIR]
+Type = USEABLE
+Price = 650
+Attributes = HEALING,0
+
+
+#-----------------------Narcotic----------------------
+
+[SOOTHING]
+Type = USEABLE
+Price = 50
+Attributes = DRUG,5
+
+#----------------------------------------------------
+
+[PAINKILLER]
+Type = USEABLE
+Price = 100
+Attributes = DRUG,25
+
+#----------------------------------------------------
+
+[SUFENTANIL]
+Type = USEABLE
+Price = 600
+Attributes = DRUG,100
+
+
+#-----------------------Coffee-----------------------
+
+[WAKE_UP_CALL]
+Type = USEABLE
+Price = 15
+Attributes = ENERGY,10
+
+#----------------------------------------------------
+
+[COFFEE]
+Type = USEABLE
+Price = 60
+Attributes = ENERGY,20,SPEED,60
+
+
+#----------------------------------------------------
+
+[MAGIC_COFFEE]
+Type = USEABLE
+Price = 650
+Attributes = ENERGY,500,SPEED,300
+
+
+#-----------------------SEDUCTION----------------------
+
+[DOES_EYES_BEVERAGES]
+Type = USEABLE
+Price = 50
+Attributes = SEDUCTION,5
+
+#----------------------------------------------------
+
+[SEDUCTION_POTION]
+Type = USEABLE
+Price = 100
+Attributes = SEDUCTION,20
+
+
+#----------------------------------------------------
+
+[ELIXIR_OF_THE_FEMME_FATALE]
+Type = USEABLE
+Price = 800
+Attributes = SEDUCTION,300
+
+
+#----------------------NICTALOPY---------------------
+
+[MINOR_CAT_POTION]
+Type = USEABLE
+Price = 20
+Attributes = NICTALOPY,90
+
+#----------------------------------------------------
+
+[CAT_POTION]
+Type = USEABLE
+Price = 60
+Attributes = NICTALOPY,200
+
+
+#----------------------------------------------------
+
+[NYCTALOPE_DECOCTION]
+Type = USEABLE
+Price = 600
+Attributes = NICTALOPY,800
+
+
+#----------------------TIREDNESS---------------------
+
+[EXHAUSTION_POTION]
+Type = USEABLE
+Price = 50
+Attributes = TIREDNESS,25
+
+#----------------------------------------------------
+
+[NARCOTIC]
+Type = USEABLE
+Price = 100
+Attributes = TIREDNESS,100
+
+#----------------------------------------------------
+
+[MORPHEE_ELIXIR]
+Type = USEABLE
+Price = 700
+Attributes = TIREDNESS,9999
+
+
+#----------------------VOMITING---------------------
+
+[STRANGE_MIXTURE]
+Type = USEABLE
+Price = 5
+Attributes = VOMITING,10
+
+#----------------------------------------------------
+
+[VOMITING_POTION]
+Type = USEABLE
+Price = 20
+Attributes = VOMITING,25
+
+
+#----------------------------------------------------
+
+[ZIGU_ELIXIR]
+Type = USEABLE
+Price = 200
+Attributes = VOMITING,100
+
+
+#---------------------INVISIBILITY-------------------
+
+[POTION_OF_DISGUISE]
+Type = USEABLE
+Price = 100
+Attributes = INVISIBILITY,30
+
+#----------------------------------------------------
+
+[POTION_OF_DISIMULATION]
+Type = USEABLE
+Price = 200
+Attributes = INVISIBILITY,90
+
+
+#----------------------------------------------------
+
+[ELIXIR_OF_INVISIBILITY]
+Type = USEABLE
+Price = 900
+Attributes = INVISIBILITY,400
+
+
+#----------------------CONFUSION---------------------
+
+[BEVERAGE_OF_DRUNKENNESS]
+Type = USEABLE
+Price = 50
+Attributes = CONFUSION,10
+
+#----------------------------------------------------
+
+[POTION_OF_CONFUSION]
+Type = USEABLE
+Price = 100
+Attributes = CONFUSION,25
+
+
+#----------------------------------------------------
+
+[ELIXIR_OF_LYPEMANIA]
+Type = USEABLE
+Price = 800
+Attributes = CONFUSION,100
+
+
+#-----------------------SPEED-----------------------
+
+[ENERGIZER]
+Type = USEABLE
+Price = 30
+Attributes = ENERGY,10
+
+#----------------------------------------------------
+
+[ADRENALINE]
+Type = USEABLE
+Price = 100
+Attributes = SPEED,120
+
+
+#----------------------------------------------------
+
+[ELIXIR_OF_TRANSANDANCE]
+Type = USEABLE
+Price = 500
+Attributes = SPEED,360,ENERGY,100
+
+
+#----------------------ANTIDOTE----------------------
+
+[MINOR_ANTIDOTE]
+Type = USEABLE
+Price = 50
+Attributes = ANTIDOTE,25
+
+#----------------------------------------------------
+
+[ANTIDOTE]
+Type = USEABLE
+Price = 100
+Attributes = ANTIDOTE,50
+
+
+#----------------------------------------------------
+
+[BLESSING_OF_PANACEA]
+Type = USEABLE
+Price = 600
+Attributes = ANTIDOTE,100
+
+
+#----------------------DIGESTION----------------------
+
+[STOMACH_POTION]
+Type = OTHER
+Price = 50
+
+#----------------------------------------------------
+
+[DIGESTIVE]
+Type = OTHER
+Price = 100
+
+#----------------------------------------------------
+
+[STOMACH_ULCER_REMEDY]
+Type = OTHER
+Price = 600
+
+
+#---------------------REPULSIVE----------------------
+
+[INSECT_SPRAY]
+Type = USEABLE
+Price = 100
+Attributes = REPULSIVE,25
+
+#----------------------------------------------------
+
+[SNAKE_SPRAY]
+Type = USEABLE
+Price = 200
+Attributes = REPULSIVE,50
+
+#----------------------------------------------------
+
+[UNIVERSAL_ANTI_MONSTER_SPRAY]
+Type = USEABLE
+Price = 700
+Attributes = REPULSIVE,100
+
+
+#---------------------BLINDNESS----------------------
+
+[HALLUCINOGENIC_POTION]
+Type = USEABLE
+Price = 100
+Attributes = BLINDNESS,25
+
+#----------------------------------------------------
+
+[FOG_POTION]
+Type = USEABLE
+Price = 200
+Attributes = BLINDNESS,60
+
+#----------------------------------------------------
+
+[ELIXIR_OF_BLINDNESS]
+Type = USEABLE
+Price = 850
+Attributes = BLINDNESS,600
+
+
+
+#====================================================
+#=====================OINTMENTS======================
+#====================================================
+
+
+
+#----------------------HEALING-----------------------
+
+[HEALING_OINTMENT]
+Type = USEABLE
+Price = 10
+Attributes = HEALING,25
+
+#----------------------------------------------------
+
+[REPAIRING_BALM]
+Type = USEABLE
+Price = 50
+Attributes = HEALING,50
+
+#----------------------------------------------------
+
+[WOUND_HEALING_OINTMENT]
+Type = USEABLE
+Price = 100
+Attributes = HEALING,75
+
+#----------------------------------------------------
+
+[IASO_EMBROCATION]
+Type = USEABLE
+Price = 500
+Attributes = HEALING,9999
+
+
+#---------------------RESISTANCE---------------------
+
+[OINTMENT_AGAINST_ITCHING]
+Type = USEABLE
+Price = 30
+Attributes = RESISTANCE,25
+
+#----------------------------------------------------
+
+[OINTMENT_AGAINST_STINGS]
+Type = USEABLE
+Price = 80
+Attributes = RESISTANCE,50
+
+#----------------------------------------------------
+
+[ANTI_INFLAMMATORY]
+Type = USEABLE
+Price = 150
+Attributes = RESISTANCE,75
+
+#----------------------------------------------------
+
+[GOLEM_BALM]
+Type = USEABLE
+Price = 700
+Attributes = RESISTANCE,100
+
+
+#---------------------ANTI_BURN----------------------
+
+[SUNSCREEN_CREAM]
+Type = USEABLE
+Price = 20
+Attributes = ANTI_BURN,25
+
+#----------------------------------------------------
+
+[OINTMENT_AGAINST_BURNS]
+Type = USEABLE
+Price = 90
+Attributes = ANTI_BURN,50
+
+#----------------------------------------------------
+
+[OINTMENT_AGAINST_SEVERE_BURNS]
+Type = USEABLE
+Price = 200
+Attributes = ANTI_BURN,75
+
+#----------------------------------------------------
+
+[AGOUNIA_EMBROCATION]
+Type = USEABLE
+Price = 500
+Attributes = ANTI_BURN,100
+
+
+#---------------------ANTI_COLD----------------------
+
+[CREAM_AGAINST_COLD]
+Type = USEABLE
+Price = 20
+Attributes = ANTI_BURN,25
+
+#----------------------------------------------------
+
+[WARMING_OINTMENT]
+Type = USEABLE
+Price = 90
+Attributes = ANTI_BURN,50
+
+#----------------------------------------------------
+
+[OINTMENT_AGAINST_CHILBLAINS]
+Type = USEABLE
+Price = 200
+Attributes = ANTI_BURN,75
+
+#----------------------------------------------------
+
+[UII_EMBROCATION]
+Type = USEABLE
+Price = 500
+Attributes = ANTI_BURN,100
+
+
+
+#====================================================
+#=======================PLANTS=======================
+#====================================================
+
+#----------------------------------------------------
+
+[MEDICINAL_HERBS]
+Type = OTHER
+Price = 50
+
+#----------------------------------------------------
+
+[RED_MUSHROOM]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[LIFE_CRYSTAL]
+Type = OTHER
+Price = 150
+
+#----------------------------------------------------
+
+[LEMON]
+Type = OTHER
+Price = 50
+
+#----------------------------------------------------
+
+[TRANSPARENT_MUSHROOM]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[BLINDNESS_MUSHROOM]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[STRANGE_MUSHROOM]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[BALANCE_CRYSTAL]
+Type = OTHER
+Price = 150
+
+#----------------------------------------------------
+
+[MADNESS_CRYSTAL]
+Type = OTHER
+Price = 150
+
+#----------------------------------------------------
+
+[BROKEN_CRYSTAL]
+Type = OTHER
+Price = 150
+
+#----------------------------------------------------
+
+[DARKNESS_CRYSTAL]
+Type = OTHER
+Price = 150
+
+#----------------------------------------------------
+
+[ENERGY_CRYSTAL]
+Type = OTHER
+Price = 150
+
+#----------------------------------------------------
+
+[LOVE_CRYSTAL]
+Type = OTHER
+Price = 150
+
+#----------------------------------------------------
+
+[MINT]
+Type = OTHER
+Price = 50
+
+#----------------------------------------------------
+
+[STRAWBERRY]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[BLUEBERRY]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[BLACK_RADISH]
+Type = OTHER
+Price = 50
+
+#----------------------------------------------------
+
+[ROSE]
+Type = OTHER
+Price = 50
+
+#----------------------------------------------------
+
+[NIGHT_FLOWER]
+Type = OTHER
+Price = 50
+
+#----------------------------------------------------
+
+[EVIL_FLOWER]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[ARTICHOKE]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[WEED]
+Type = OTHER
+Price = 50
+
+#----------------------------------------------------
+
+[COFFEE_BEAN]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[MISTLETOE]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[BAT_WING]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[TRANSPARENT_FLOWER]
+Type = OTHER
+Price = 50
+
+#----------------------------------------------------
+
+[BLINDNESS_FLOWER]
+Type = OTHER
+Price = 50
+
+#----------------------------------------------------
+
+[SUGAR]
+Type = OTHER
+Price = 50
+
+#----------------------------------------------------
+
+[GINGER]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[TORMENT_OIL]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[GARLIC]
+Type = OTHER
+Price = 50
+
+#----------------------------------------------------
+
+[ONION]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------
+
+[OPIUM_FLOWER]
+Type = OTHER
+Price = 70
+
+#----------------------------------------------------

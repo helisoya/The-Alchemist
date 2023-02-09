@@ -1,0 +1,15 @@
+MUGSHOT(null)
+BACKGROUND(Intro_1)
+DIALOG(null,Introduction_1)
+DIALOG(null,Introduction_2)
+DIALOG(null,Introduction_3)
+BACKGROUND(Intro_2)
+DIALOG(null,Introduction_4)
+DIALOG(null,Introduction_5)
+DIALOG(null,Introduction_6)
+DIALOG(null,Introduction_7)
+DIALOG(null,Introduction_8)
+{
+	CHOICE(Introduction_choice_1,introduction_2)	
+	CHOICE(Introduction_choice_2,introduction_end)	
+}

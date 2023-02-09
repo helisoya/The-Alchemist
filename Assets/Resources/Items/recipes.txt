@@ -1,0 +1,506 @@
+# ------------ HEALING --------------
+
+
+[RECIPE]
+Item1 = MEDICINAL_HERBS
+Item1Count = 1
+Result = MINOR_HEALING_POTION
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = RED_MUSHROOM
+Item1Count = 1
+Item2 = MINOR_HEALING_POTION
+Item2Count = 1
+Result = HEALING_POTION
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = LIFE_CRYSTAL
+Item1Count = 1
+Item2 = HEALING_POTION
+Item2Count = 1
+Result = LIFE_ELIXIR
+ResultCount = 1
+Machine = ENCHANTER
+
+
+
+# ------------ PULMON PROBLEMS --------------
+
+
+
+
+[RECIPE]
+Item1 = MEDICINAL_HERBS
+Item1Count = 1
+Item2 = LEMON
+Item2Count = 1
+Result = SORE_THROAT_POTION
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = STRAWBERRY
+Item1Count = 1
+Item2 = SORE_THROAT_POTION
+Item2Count = 1
+Result = COUGH_REMEDY
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = LIFE_CRYSTAL
+Item1Count = 1
+Item2 = COUGH_REMEDY
+Item2Count = 1
+Result = LUNG_ELIXIR
+ResultCount = 1
+Machine = ENCHANTER
+
+
+
+
+# ------------ ANTIDOTE --------------
+
+
+[RECIPE]
+Item1 = MEDICINAL_HERBS
+Item1Count = 1
+Item2 = MINT
+Item2Count = 1
+Result = MINOR_ANTIDOTE
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = BLUEBERRY
+Item1Count = 1
+Item2 = MINOR_ANTIDOTE
+Item2Count = 1
+Result = ANTIDOTE
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = LIFE_CRYSTAL
+Item1Count = 1
+Item2 = ANTIDOTE
+Item2Count = 1
+Result = BLESSING_OF_PANACEA
+ResultCount = 1
+Machine = ENCHANTER
+
+
+# ------------ DIGESTION --------------
+
+
+[RECIPE]
+Item1 = BLACK_RADISH
+Item1Count = 1
+Result = STOMACH_POTION
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = ARTICHOKE
+Item1Count = 1
+Item2 = STOMACH_POTION
+Item2Count = 1
+Result = DIGESTIVE
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = BALANCE_CRYSTAL
+Item1Count = 1
+Item2 = DIGESTIVE
+Item2Count = 1
+Result = STOMACH_ULCER_REMEDY
+ResultCount = 1
+Machine = ENCHANTER
+
+
+# ------------ VOMITING --------------
+
+
+[RECIPE]
+Item1 = BLACK_RADISH
+Item1Count = 1
+Item2 = STRANGE_MUSHROOM
+Item2Count = 1
+Result = STRANGE_MIXTURE
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = EVIL_FLOWER
+Item1Count = 1
+Item2 = STRANGE_MIXTURE
+Item2Count = 1
+Result = VOMITING_POTION
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = BALANCE_CRYSTAL
+Item1Count = 1
+Item2 = VOMITING_POTION
+Item2Count = 1
+Result = ZIGU_ELIXIR
+ResultCount = 1
+Machine = ENCHANTER
+
+
+# ------------ DRUG --------------
+
+
+[RECIPE]
+Item1 = WEED
+Item1Count = 1
+Result = SOOTHING
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = OPIUM_FLOWER
+Item1Count = 1
+Item2 = SOOTHING
+Item2Count = 1
+Result = PAINKILLER
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = MADNESS_CRYSTAL
+Item1Count = 1
+Item2 = PAINKILLER
+Item2Count = 1
+Result = SUFENTANIL
+ResultCount = 1
+Machine = ENCHANTER
+
+
+# ------------ Confusion --------------
+
+
+[RECIPE]
+Item1 = WEED
+Item1Count = 3
+Result = BEVERAGE_OF_DRUNKENNESS
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = COFFEE_BEAN
+Item1Count = 2
+Item2 = BEVERAGE_OF_DRUNKENNESS
+Item2Count = 1
+Result = POTION_OF_CONFUSION
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = MADNESS_CRYSTAL
+Item1Count = 1
+Item2 = POTION_OF_CONFUSION
+Item2Count = 1
+Result = ELIXIR_OF_LYPEMANIA
+ResultCount = 1
+Machine = ENCHANTER
+
+
+# ------------ Seduction --------------
+
+
+[RECIPE]
+Item1 = ROSE
+Item1Count = 1
+Result = DOES_EYES_BEVERAGES
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = MISTLETOE
+Item1Count = 1
+Item2 = DOES_EYES_BEVERAGES
+Item2Count = 1
+Result = SEDUCTION_POTION
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = LOVE_CRYSTAL
+Item1Count = 1
+Item2 = SEDUCTION_POTION
+Item2Count = 1
+Result = ELIXIR_OF_THE_FEMME_FATALE
+ResultCount = 1
+Machine = ENCHANTER
+
+
+# ------------ Night Vision --------------
+
+
+[RECIPE]
+Item1 = NIGHT_FLOWER
+Item1Count = 1
+Result = MINOR_CAT_POTION
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = BAT_WING
+Item1Count = 1
+Item2 = MINOR_CAT_POTION
+Item2Count = 1
+Result = CAT_POTION
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = DARKNESS_CRYSTAL
+Item1Count = 1
+Item2 = CAT_POTION
+Item2Count = 1
+Result = NYCTALOPE_DECOCTION
+ResultCount = 1
+Machine = ENCHANTER
+
+
+# ------------ Invisibility --------------
+
+
+[RECIPE]
+Item1 = TRANSPARENT_FLOWER
+Item1Count = 1
+Result = POTION_OF_DISGUISE
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = TRANSPARENT_MUSHROOM
+Item1Count = 1
+Item2 = POTION_OF_DISGUISE
+Item2Count = 1
+Result = POTION_OF_DISIMULATION
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = DARKNESS_CRYSTAL
+Item1Count = 1
+Item2 = POTION_OF_DISIMULATION
+Item2Count = 1
+Result = ELIXIR_OF_INVISIBILITY
+ResultCount = 1
+Machine = ENCHANTER
+
+
+
+# ------------ Repulsive --------------
+
+
+[RECIPE]
+Item1 = GARLIC
+Item1Count = 1
+Result = INSECT_SPRAY
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = ONION
+Item1Count = 1
+Item2 = SNAKE_SPRAY
+Item2Count = 1
+Result = POTION_OF_DISIMULATION
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = BROKEN_CRYSTAL
+Item1Count = 1
+Item2 = SNAKE_SPRAY
+Item2Count = 1
+Result = UNIVERSAL_ANTI_MONSTER_SPRAY
+ResultCount = 1
+Machine = ENCHANTER
+
+
+# ------------ Tiredness --------------
+
+
+[RECIPE]
+Item1 = BLINDNESS_FLOWER
+Item1Count = 1
+Result = EXHAUSTION_POTION
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = TORMENT_OIL
+Item1Count = 1
+Item2 = EXHAUSTION_POTION
+Item2Count = 1
+Result = NARCOTIC
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = DARKNESS_CRYSTAL
+Item1Count = 1
+Item2 = NARCOTIC
+Item2Count = 1
+Result = MORPHEE_ELIXIR
+ResultCount = 1
+Machine = ENCHANTER
+
+
+# ------------ Tiredness --------------
+
+
+[RECIPE]
+Item1 = BLINDNESS_FLOWER
+Item1Count = 3
+Result = HALLUCINOGENIC_POTION
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = BLINDNESS_MUSHROOM
+Item1Count = 1
+Item2 = HALLUCINOGENIC_POTION
+Item2Count = 1
+Result = FOG_POTION
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = DARKNESS_CRYSTAL
+Item1Count = 1
+Item2 = FOG_POTION
+Item2Count = 1
+Result = ELIXIR_OF_BLINDNESS
+ResultCount = 1
+Machine = ENCHANTER
+
+
+
+# ------------ COffee --------------
+
+
+[RECIPE]
+Item1 = COFFEE_BEAN
+Item1Count = 1
+Result = WAKE_UP_CALL
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = GINGER
+Item1Count = 1
+Item2 = WAKE_UP_CALL
+Item2Count = 1
+Result = COFFEE
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = ENERGY_CRYSTAL
+Item1Count = 1
+Item2 = COFFEE
+Item2Count = 1
+Result = MAGIC_COFFEE
+ResultCount = 1
+Machine = ENCHANTER
+
+
+# ------------ Speed --------------
+
+
+[RECIPE]
+Item1 = COFFEE_BEAN
+Item1Count = 2
+Result = ENERGIZER
+ResultCount = 1
+Machine = CAULDRON
+
+# ------------------------
+
+[RECIPE]
+Item1 = SUGAR
+Item1Count = 1
+Item2 = ENERGIZER
+Item2Count = 1
+Result = ADRENALINE
+ResultCount = 1
+Machine = ALEMBIC
+
+# ------------------------
+
+[RECIPE]
+Item1 = ENERGY_CRYSTAL
+Item1Count = 1
+Item2 = ADRENALINE
+Item2Count = 1
+Result = ELIXIR_OF_TRANSANDANCE
+ResultCount = 1
+Machine = ENCHANTER

@@ -1,0 +1,2 @@
+MUGSHOT(oof)
+DIALOG(VILLAGER,NPC7_Default_1)

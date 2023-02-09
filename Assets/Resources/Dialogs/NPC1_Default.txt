@@ -1,0 +1,2 @@
+MUGSHOT(oof)
+DIALOG(FARMER,NPC1_Default_1)

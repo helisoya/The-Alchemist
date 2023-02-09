@@ -1,0 +1,82 @@
+#------------------ DEBUG -----------------------------------
+
+OOF = OOF
+OOF_dlg1_1 = OOOOOOOOOOOOOOOOOOOOOOFFFFFFFFFFFFFFFFFFFFF !!!
+OOF_dlg1_2 = LOL MDR XD !!!!
+OOF_dlg1_3 = Tu préfère quelle console ???
+OOF_dlg1_choice1 = La PS4
+OOF_dlg1_choice2 = La XBOX One
+OOF_dlg1_4 = XD ! La PS4 c de la merde en plastique !!!!!!!!
+OOF_dlg1_5 = XD ! Je préfère le PC de toute façon !!!!!!
+
+
+
+
+#------------------ Intro du jeu -----------------------------------
+
+Introduction_1 = Je vis paisiblement dans la ville de Pingu ou j'étudie pour devenir professeur.
+Introduction_2 = C'est difficile, mais je pense pouvoir devenir l'un des meilleurs professeurs du pays.
+Introduction_3 = Enfin, c'est ce que je pensais...
+Introduction_4 = J'ai reçu ce matin une lettre de la mairie. L'heure est grave.
+Introduction_5 = Mon grand oncle, Papi Novel, est décédé. C'était un grand alchimiste dans la région de Fouzi.
+Introduction_6 = Il m'a légué son magasin d'alchimiste pour que je devienne à mon tour "un grand alchimiste".
+Introduction_7 = Mais... Ais-je vraiment envie de tout abandonner pour aller dans cette région lointaine ?
+Introduction_8 = J'ai tant étudié, cela serait dommage de tout sacrifier pour des potions...
+Introduction_choice_1 = Devenir Alchimiste
+Introduction_choice_2 = Rester à Pingu
+Introduction_end_1 = Non ! Je resterai maitre de mon destin !
+Introduction_end_2 = Je vais rester ici pour continuer mes études, et je deviendrais célèbre !
+Introduction_end_3 = 30 ANS PLUS TARD...
+Introduction_end_4 = Cela fait des années que j'enseigne maintenant.
+Introduction_end_5 = Je suis le meilleur maintenant ! J'enseigne les meilleurs cours de Système.
+Introduction_end_6 = J'ai bien fait de refuser de partir.
+Introduction_9 = Et c'est ainsi que je parti pour la région de Fouzi.
+Introduction_10 = J'espère devenir un alchimiste digne de ce nom.
+
+# -------------------- Others -------------------
+
+Witch = Je ne veux pas rentrer à l'intérieur. Cela serait mauvais pour moi.
+
+# -------------------- FARMER -----------------------
+
+FARMER = Fermier
+HELP_THE_FARMER_ASK_1 = Alchimiste ! J'ai besoin de vos talents à tout prix !
+HELP_THE_FARMER_ASK_2 = Créez-moi une potion de soin mineure pour soigner ma fille.
+
+HELP_THE_FARMER_End_1 = Mille fois merci, Alchimiste ! Ma fille va pouvoir être soigné maintenant. 
+HELP_THE_FARMER_End_2 = Prenez ces pièces en guise de récompense.
+
+NPC1_Default_1 = Mon travail ici est crucial : j'alimente le village complet.
+
+
+
+# ---------------------- Fisherman ------------------------
+
+FISHERMAN = Pecheur
+HELP_FISHERMAN_ASK_1 = J'aurais besoin de votre aide, jeune homme.
+HELP_FISHERMAN_ASK_2 = Créez-moi un remède contre la toux, j'en ai besoin pour soigner ma gorge.
+
+HELP_FISHERMAN_End_1 = Vous avez le remède ? Parfait ! Je vais pouvoir arrêter de tousser.
+HELP_FISHERMAN_End_2 = Prenez ces pièces en guise de récompense.
+
+NPC2_Default_1 = Je pêche principalement pour me nourir mais il m'arrive de vendre mes poissons au village.
+
+
+# ---------------------- Priest ------------------------
+
+PRIEST = Prêtre
+HOLY_WATER_ASK_1 = J'ai peur d'avoir besoin de votre aide, mon brave.
+HOLY_WATER_ASK_2 = Pourriez-vous me faire une elixire de transandance ? J'en ai besoin pour un rituel.
+
+HOLY_WATER_End_1 = Vous avez l'elixir ? Vous êtes un très bon alchimiste.
+HOLY_WATER_End_2 = Prenez ces pièces en guise de récompense.
+
+NPC4_Default_1 = Je passe la plupart de mon temps ici pour que les habitants puissent venir prier.
+
+# --------------------- Villagers ----------------------
+
+VILLAGER = Villageois
+NPC3_Default_1 = J'aime les shorts ! Ils sont si cool !
+NPC5_Default_1 = J'ai entendu qu'il y a des pierres rares dans les montagnes.
+NPC6_Default_1 = La forêt interdite est supposée abriter des fantômes.
+NPC7_Default_1 = Bonjour ! Comment-allez vous ? L'air est bon, pas vrai ?

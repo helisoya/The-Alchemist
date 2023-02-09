@@ -1,0 +1,2 @@
+MUGSHOT(oof)
+DIALOG(PRIEST,NPC4_Default_1)

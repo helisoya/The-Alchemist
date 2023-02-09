@@ -1,0 +1,83 @@
+# ---------- Game -------------
+
+null =  
+Game_Currency = Gold
+
+Day_0 = Mon.
+Day_1 = Tue.
+Day_2 = Wed.
+Day_3 = Thu.
+Day_4 = Fri.
+Day_5 = Sat.
+Day_6 = Sun.
+
+# -------------- Zones ------------------
+
+TEST_AREA_Name = Debug Area
+PlayerHome_Name = Player's House
+PlayerHome_PlayerHouse_Name = Player's House
+Village_Name = Village
+Village_Inside1_Name = Village
+Village_Inside2_Name = Village
+Village_Inside3_Name = Village
+Village_Inside4_Name = Village
+Church_Name = Church
+Church_Inside_Name = Church
+Farm_Name = Farm
+Farm_FarmerHouse_Name = Farm
+River_Down_Name = River (South)
+River_Up_Name = River (North)
+Fisherman_House_Name = Fisherman's House
+FishermanHouse_House_Name = Fisherman's House
+Forbiden_Forest_Name = Forbiden Forest
+Swamp_Name = Swamp
+Witch_Lair_Name = Witch's Lair
+Forest_Left_Name = Forest (Left)
+Forest_Right_Name = Forest (Right)
+Mountains_Name = Mountains
+
+# ------------- Title Screen ---------------
+
+TitleScreen_Quit = Quit
+TitleScreen_Play = Play
+TitleScreen_Debug = Continue
+TitleScreen_About = Programming : Helisoya Testers : Helisoya, T.N, T.M
+TitleScreen_? = ?
+TitleScreen_X = X
+
+# ------------ Menus --------------
+
+Settings_Quality = Quality
+Quit_Desktop = To Desktop
+Quit_Title = To Title Screen
+
+Machine_All = All
+Machine_Cauldron = Cauldron
+Machine_Alembic = Alembic
+Machine_Enchanter = Enchanter
+
+Craft_Label = Combine
+
+
+# ---------- Quests ------------------
+
+Quest_TUTORIAL_Name = The Basics
+Quest_TUTORIAL_Description = I have to master the basics of potion crafting if I want to become an alchemist.
+Quest_TUTORIAL_0 = Find x1 medicinal herbs near the river.
+Quest_TUTORIAL_1 = Craft a healing potion using the cauldron.
+
+Quest_HELP_THE_FARMER_Name = Help the farmer
+Quest_HELP_THE_FARMER_Description = The farmer needs my help to heal his daughter.
+Quest_HELP_THE_FARMER_0 = Create a minor healing potion.
+Quest_HELP_THE_FARMER_1 = Give the potion to the farmer.
+
+
+Quest_HELP_FISHERMAN_Name = Help the fisherman
+Quest_HELP_FISHERMAN_Description = The fisherman has coughing problems, he needs my help.
+Quest_HELP_FISHERMAN_0 = Create a coughing remedy (Level 2).
+Quest_HELP_FISHERMAN_1 = Give the remedy to the fisherman.
+
+Quest_HOLY_WATER_Name = Holy Water
+Quest_HOLY_WATER_Description = The priest needs an elixir of transandance to perform a ritual.
+Quest_HOLY_WATER_0 = Create an elixir of transandance (Level 3).
+Quest_HOLY_WATER_1 = Give the elixir to the priest.

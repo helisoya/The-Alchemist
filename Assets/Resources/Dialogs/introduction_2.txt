@@ -1,0 +1,5 @@
+MUGSHOT(null)
+BACKGROUND(Intro_2)
+DIALOG(null,Introduction_9)
+DIALOG(null,Introduction_10)
+NEWGAME(false)

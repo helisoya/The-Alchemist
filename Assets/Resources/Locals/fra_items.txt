@@ -1,0 +1,476 @@
+CAULDRON_Name = Chaudron
+CAULDRON_Description = Un vieux chaudron.
+
+ALEMBIC_Name = Graines de 
+ALEMBIC_Description = Un vielle alambic.
+
+ENCHANTER_Name = Enchanteur
+ENCHANTER_Description = Une machine pour enchanter avec le pouvoir des crystaux.
+
+BARREL_Name = Baril
+BARREL_Description = Un baril pour la fermentation.
+
+DRYER_Name = Séchoir
+DRYER_Description = Un séchoir, pour faire sécher les feuilles.
+
+AXE_Name = Hache rouillé
+AXE_Description = Une vielle hache qui permet de couper les petits arbres.
+
+BUCKET_Name = Seau en bois
+BUCKET_Description = Un seau en bois pas très solide.
+
+WATERING_CAN_Name = Graines de 
+WATERING_CAN_Description = Un arrosoir avec une petite contenance.
+
+SHEARS_Name = Cisaille
+SHEARS_Description = Une cisaille qui coupe mal mais c'est toujours mieux que rien.
+
+SICKLE_Name = Faucille
+SICKLE_Description = Une faucille qui coupe bien.
+
+HOE_Name = Houe
+HOE_Description = Une houe pour couper les herbes hautes.
+
+PICKAXE_Name = Pioche
+PICKAXE_Description = Une pioche pour casser les pierres gênantes.
+
+SHOVEL_Name = Pelle
+SHOVEL_Description = Une pelle pour retourner la terre.
+
+MANTLE_Name = Vieux manteau
+MANTLE_Description = Le vieux manteau du garde de la montagne.
+
+MAGIC_MANTLE_Name = Bottes magique
+MAGIC_MANTLE_Description = Le vieux manteau du garde de la montagne, qui a été enchanté pour résister à la chaleur du volcan.
+
+BOOTS_Name = Bottes
+BOOTS_Description = Une paire de bottes en caoutchouc jaune.
+
+MAGIC_BOOTS_Name = Bottes magique
+MAGIC_BOOTS_Description = Des bottes en caoutchouc jaune enchanter pour résister aux plus fortes chaleurs.
+
+GLOVE_Name = Gants
+GLOVE_Description = Un vieux gant.
+
+HERBORIST_GLOVE_Name = Gants d'herboriste
+HERBORIST_GLOVE_Description = Un gant de jardinage.
+
+LANTERN_Name = Lanterne
+LANTERN_Description = Une lanterne qui permet d'éclaire la nuit.
+
+TALISMAN_AGAINST_WILD_BEASTS_Name = Talisman contre les bêtes sauvages
+TALISMAN_AGAINST_WILD_BEASTS_Description = Un talisman en épiaire droite sensé protéger les guerrier partant au combat.
+
+OLD_TALISMAN_Name = Ancien Graines de 
+OLD_TALISMAN_Description = Un talisman ancien fabriqué à partir de fragment cacher dans chaque zone.
+
+CLEAR_CRYSTAL_Name = Cristal transparent
+CLEAR_CRYSTAL_Description = Un Cristal transparent trouvé à l'intérieur du volcan.
+
+SACRED_CRYSTAL_Name = Cristal Sacré
+SACRED_CRYSTAL_Description = Un Cristal qui a longtemps absorbé de l'énergie sacrée.
+
+CURSED_CRYSTAL_Name = Cristal Maudit
+CURSED_CRYSTAL_Description = Un Cristal qui a longtemps absorbé l'énergie des marais.
+
+VULCAIN_CRYSTAL_Name = Cristal du Volcan
+VULCAIN_CRYSTAL_Description = Un Cristal qui a longtemps absorbé l'énergie d'un volcan.
+
+FROST_CRYSTAL_Name = Cristal de givre
+FROST_CRYSTAL_Description = Un Cristal qui a longtemps fermenter dans une mixture glaciale.
+
+NIGHT_CRYSTAL_Name = Cristal de la nuit
+NIGHT_CRYSTAL_Description = Un Cristal aussi noir que la nuit.
+
+DAY_CRYSTAL_Name = Cristal solaire
+DAY_CRYSTAL_Description = Un Cristal qui émet une douce lumière comme celle du soleil.
+
+WINE_Name = Vin
+WINE_Description = Une bouteille de vin de mauvaise qualité, peut aussi servir de débouche toilette.
+
+COMPETITION_WINE_Name = Vin de compétition
+COMPETITION_WINE_Description = Un vin de qualité digne des meilleurs cépages.
+
+REFRESHING_DRINK_Name = Boisson rafraîchissante
+REFRESHING_DRINK_Description = Une bouteille d'eau bien fraîche avec des glaçons et tout.
+
+BEER_Name = Bière
+BEER_Description = Une bière au bon goût de houblon.
+
+COMPETITION_BEER_Name = Bière de compétition
+COMPETITION_BEER_Description = Un bière de grande qualité.
+
+GENEPI_BRANDY_Name = Eau de vie au génépi
+GENEPI_BRANDY_Description = Une eau de vie au goût de génépi.
+
+PEAR_BRANDY_Name = Eau de vie à la poire
+PEAR_BRANDY_Description = Une eau de vie au goût de poire.
+
+MOONWALKER_BEVERAGE_Name = Breuvage du marcheur de la nuit
+MOONWALKER_BEVERAGE_Description = Une potion légendaire qui donne à son consommateur une partie des pouvoirs des marche-lune.
+
+LOVE_POTION_Name = Philtre d'amour
+LOVE_POTION_Description = Une philtre d'amour tout droit sortie d'un compte de fée.
+
+CALMING_TEA_Name = Thé calmant
+CALMING_TEA_Description = Rien de mieux qu'une tasse de thé en fin de journée.
+
+MINT_TEA_Name = Thé à la menthe
+MINT_TEA_Description = Une sachet de thé à la menthe.
+
+RED_BERRY_INFUSION_Name = Tissane aux fruits rouges
+RED_BERRY_INFUSION_Description = Une bonne infusion aux fruits rouges.
+
+ROSE_PARFUM_Name = Parfum à la rose
+ROSE_PARFUM_Description = Un parfum qui sent la rose, sauras ravir les romantiques.
+
+OSMANTHE_PARFUM_Name = Parfum à l'osmanthe
+OSMANTHE_PARFUM_Description = Un parfum qui sent l'osmanthe.
+
+JASMIN_PARFUM_Name = Parfum au jasmin
+JASMIN_PARFUM_Description = Un parfum qui sent le jasmin.
+
+LEATHER_PREPARATION_Name = Préparation pour le cuir
+LEATHER_PREPARATION_Description = Une préparation pour tanner le cuir.
+
+BLUE_DYE_Name = Colorant bleu
+BLUE_DYE_Description = Un colorant bleu naturel.
+
+GREEN_DYE_Name = Colorant vert
+GREEN_DYE_Description = Un colorant vert naturel.
+
+RED_DYE_Name = Colorant rouge
+RED_DYE_Description = Un colorant rouge naturel.
+
+YELLOW_DYE_Name = Colorant jaune
+YELLOW_DYE_Description = Un colorant jaune naturel.
+
+BLACK_DYE_Name = Colorant noir
+BLACK_DYE_Description = Un colorant noir naturel.
+
+MINOR_HEALING_POTION_Name = Potion de soins mineure
+MINOR_HEALING_POTION_Description = Une potion de soin qui rend quelques PV.
+
+HEALING_POTION_Name = Potion de soin
+HEALING_POTION_Description = Une potion de soin qui rend des PV.
+
+SUPERIOR_HEALING_POTION_Name = Potion de soin majeure
+SUPERIOR_HEALING_POTION_Description = Une potion de soin qui rend beaucoup de PV.
+
+LIFE_ELIXIR_Name = Elixir de vie
+LIFE_ELIXIR_Description = Un rare élixir qui rend tout les points de vie.
+
+SORE_THROAT_POTION_Name = Potion contre les maux de gorge.
+SORE_THROAT_POTION_Description = Une potion qui transforme les argh en ah.
+
+COUGH_REMEDY_Name = Remède contre la toux
+COUGH_REMEDY_Description = Un potion qui soulage votre gorge et fait disparaître votre toux en un éclair.
+
+BRONCHITIS_REMEDY_Name = Remède contre les bronchite
+BRONCHITIS_REMEDY_Description = Un potion qui fais disparaître toute ces vilaines maladie de vos poumons.
+
+LUNG_ELIXIR_Name = Remède contre les problèmes pulmonaire
+LUNG_ELIXIR_Description = Une potion qui peut transformer les poumons d'un vieux fumeur atteindre d'un cancer en ceux d'un athlète de haut niveau.
+
+SOOTHING_Name = Calmant
+SOOTHING_Description = Déstresse et détend les muscles.
+
+PAINKILLER_Name = anti-Graines de 
+PAINKILLER_Description = Fait disparaître la douleur, attention risque d’addiction.
+
+ANAESTHETIC_Name = Graines de 
+ANAESTHETIC_Description = Un anesthésiant de qualité.
+
+SUFENTANIL_Name = Sufentanil
+SUFENTANIL_Description = Un puissant anesthésiant médical.
+
+WAKE_UP_CALL_Name = Réveil matin
+WAKE_UP_CALL_Description = Rien de mieux de bon matin.
+
+ANTI-FATIGUE_DRINK_Name = Breuvage contre la fatigue
+ANTI-FATIGUE_DRINK_Description = Permet de faire quelque heures de travail supplémentaire.
+
+COFFEE_Name = Café
+COFFEE_Description = Du bon café qui va vous 
+
+MAGIC_COFFEE_Name = Café magique
+MAGIC_COFFEE_Description = Un café tellement puissant que vous pourriez travaillez une semaine sans dormir.
+
+DOES_EYES_BEVERAGES_Name = Breuvages yeux de biche
+DOES_EYES_BEVERAGES_Description = Cette potion transformeras vos yeux en de séduisants yeux de biche.
+
+SEDUCTION_POTION_Name = Potion de séduction
+SEDUCTION_POTION_Description = Une fois avoir bu cette potion, vous paraîtrez beaucoup plus séduisant.
+
+DECOCTION_OF_LUST_Name = Décoction de luxure
+DECOCTION_OF_LUST_Description = Après avoir bu cette potion, toutes les personnes qui vous voient seront prises d'une puissante attiranceUn tas de name benvers vousbroyée
+
+ELIXIR_OF_THE_FEMME_FATALE_Name = Élixir de la femme fatale
+ELIXIR_OF_THE_FEMME_FATALE_Description = La potion parfaite pour avoir homme, femme, et enfant à vos pieds.
+
+MINOR_CAT_POTION_Name = Potion de chat mineure
+MINOR_CAT_POTION_Description = Permet de voir dans le noir pour quelques heures.
+
+CAT_POTION_Name = Potion de chat
+CAT_POTION_Description = Permet de voir dans le noir.
+
+SUPERIOR_CAT_POTION_Name = Potion de chat supérieur
+SUPERIOR_CAT_POTION_Description = Permet de voir dans le noir pour une longue durée.
+
+NYCTALOPE_DECOCTION_Name = Décoction du nyctalope
+NYCTALOPE_DECOCTION_Description = Une fois cette potion consommée, vous pourrez voir de nuit comme de jour.
+
+EXHAUSTION_POTION_Name = Potion de fatigue
+EXHAUSTION_POTION_Description = Donne une petit envie de dormir.
+
+NARCOTIC_Name = Narcotique
+NARCOTIC_Description = Vous videz de toute votre énergie sur le coup, vous plongeant dans un sommeil profond.
+
+ETERNAL_SLEEP_POTION_Name = Potion du sommeil éternel
+ETERNAL_SLEEP_POTION_Description = Vous plonge dans un sommeil profond pour plusieurs jours voir semaines.
+
+MORPHEE_ELIXIR_Name = Élixir de morphée
+MORPHEE_ELIXIR_Description = Cette potion va vous envoyer droit dans les bras de Morphée ou vous dormirez pour l'éternité.
+
+STRANGE_MIXTURE_Name = Mixture étrange
+STRANGE_MIXTURE_Description = Donne une forte envie de vomir.
+
+VOMITING_POTION_Name = Potion de vomissement
+VOMITING_POTION_Description = Vous faites vomir votre dernier repas.
+
+LAXATIVE_Name = Laxatif
+LAXATIVE_Description = Un puissant laxatif qui donne envie de vomir.
+
+ZIGU_ELIXIR_Name = Élixir de Zigu
+ZIGU_ELIXIR_Description = Avec un élixir de Zigu, tout ce qui est dedans sera bientôt dehorsUn tas de name broyée
+
+POTION_OF_DISGUISE_Name = Potion de déguisement
+POTION_OF_DISGUISE_Description = Une fois cette potion consommée, les gens aurons du mal à se souvenir de votre apparence.
+
+POTION_OF_DISIMULATION_Name = Potion de dissimulation
+POTION_OF_DISIMULATION_Description = Avec ces potions la majeur partie des personnes ne se souviendrons même plus de vousUn tas de name broyée
+
+POTION_OF_TRANSPARENCY_Name = Potion de transparence
+POTION_OF_TRANSPARENCY_Description = Avec cette potion, vous paraîtrez comme nuage transparent, mais quelqu'un, d'attentif pourra toujours vousUn tas de name bretrouverbroyée
+
+ELIXIR_OF_INVISIBILITY_Name = Élixir d'invisibilité
+ELIXIR_OF_INVISIBILITY_Description = Ne pas enlever l’étiquette sous risque de perdre la bouteille.
+
+BEVERAGE_OF_DRUNKENNESS_Name = Breuvage d'ivresse
+BEVERAGE_OF_DRUNKENNESS_Description = Provoque un léger mal de tête.
+
+POTION_OF_CONFUSION_Name = Potion de confusion
+POTION_OF_CONFUSION_Description = Empêche le consommateur de réfléchir.
+
+POTION_OF_MADNESS_Name = Potion de folie
+POTION_OF_MADNESS_Description = Provoque une folie sévère avec effet à longue durée.
+
+ELIXIR_OF_LYPEMANIA_Name = Élixir de lypémanie
+ELIXIR_OF_LYPEMANIA_Description = miseuqjefbcw;,cn  f$qoj  joqk ^poqi jidf
+
+ENERGIZER_Name = Énergisant
+ENERGIZER_Description = Redonne un petit peut d'énergie.
+
+ADRENALINE_Name = Graines de 
+ADRENALINE_Description = Permet de courir un peux plus vite.
+
+BOOST_POTION_Name = Potion boost
+BOOST_POTION_Description = Permet de courir plus vite tout en diminuant un peu la fatigue.
+
+ELIXIR_OF_TRANSANDANCE_Name = Élixir de transcendance
+ELIXIR_OF_TRANSANDANCE_Description = Renforce votre corps tout en restaurants votre énergie.
+
+MINOR_ANTIDOTE_Name = Antidote Graines de 
+MINOR_ANTIDOTE_Description = Soigne des petits poisons.
+
+ANTIDOTE_Name = Graines de 
+ANTIDOTE_Description = Soigne des poisons.
+
+SUPERIOR_ANTIDOTE_Name = Antidote Graines de 
+SUPERIOR_ANTIDOTE_Description = Soigne des poisons les plus dangereux.
+
+BLESSING_OF_PANACEA_Name = Bénédiction de Panacée
+BLESSING_OF_PANACEA_Description = Soigne de tout les poison et maladie.
+
+STOMACH_POTION_Name = Potion contre les maux de ventre
+STOMACH_POTION_Description = Soigne des maux de ventre.
+
+DIGESTIVE_Name = Digestif
+DIGESTIVE_Description = Aide à la digestionUn tas de name broyée
+
+INDIGESTION_REMEDY_Name = Remède contre les indigestions
+INDIGESTION_REMEDY_Description = Soigne les indigestions.
+
+STOMACH_ULCER_REMEDY_Name = Remède contre les ulcères à l'estomac
+STOMACH_ULCER_REMEDY_Description = Soigne les ulcères de l'estomac.
+
+INSECT_SPRAY_Name = Spray contre les insectes
+INSECT_SPRAY_Description = Spray qui éloigne les insectes.
+
+SNAKE_SPRAY_Name = Spray contre les serpents
+SNAKE_SPRAY_Description = Spray qui éloigne les serpents.
+
+MIRIAPOD_SPRAY_Name = Spray contre les myriapodes
+MIRIAPOD_SPRAY_Description = Spray qui éloigne les myriapodes.
+
+UNIVERSAL_ANTI_MONSTER_SPRAY_Name =  Anti-monstre Universelle
+UNIVERSAL_ANTI_MONSTER_SPRAY_Description = Spray qui éloigne tout les monstres.
+
+HALLUCINOGENIC_POTION_Name = Potion hallucinogène
+HALLUCINOGENIC_POTION_Description = Brouille la vue et l'esprit.
+
+FOG_POTION_Name = Potion de brouillard
+FOG_POTION_Description = Embrume la vue a telle point que l'on se croirait dans un brouillard.
+
+BLINDING_POTION_Name = Potion d'aveuglement
+BLINDING_POTION_Description = Rend aveugle pour une courte durée.
+
+ELIXIR_OF_BLINDNESS_Name =  Élixir de cécité
+ELIXIR_OF_BLINDNESS_Description = Rend aveugle.
+
+HEALING_OINTMENT_Name = Pommade cicatrisante
+HEALING_OINTMENT_Description = Une pommade qui aide à soigner les petits bobos.
+
+REPAIRING_BALM_Name = Baume réparateur
+REPAIRING_BALM_Description = Un baume qui soigne les bleus et les égratignures.
+
+WOUND_HEALING_OINTMENT_Name = Onguent contre les plaies
+WOUND_HEALING_OINTMENT_Description = Un onguent de première qualité qui referme les plaies.
+
+IASO_EMBROCATION_Name = Embrocation d'Iaso
+IASO_EMBROCATION_Description = Une pommade qui peut même faire repousser les membres.
+
+OINTMENT_AGAINST_ITCHING_Name = Pommade contre les démangeaisons
+OINTMENT_AGAINST_ITCHING_Description = Une pommade qui soigne les démangeaisons.
+
+OINTMENT_AGAINST_STINGS_Name = Onguent contre les piqûres
+OINTMENT_AGAINST_STINGS_Description = Un onguent qui protège des piqûres.
+
+ANTI_INFLAMMATORY_Name = Anti-Graines de 
+ANTI_INFLAMMATORY_Description = Un anti-inflammatoire à appliquer sur la peau.
+
+GOLEM_BALM_Name = Baume du golem
+GOLEM_BALM_Description = Un onguent qui transforme la couche supérieur de la peau en une couche de pierre protectrice.
+
+SUNSCREEN_CREAM_Name = Crème solaire
+SUNSCREEN_CREAM_Description = Une crème solaire particulièrement efficace.
+
+OINTMENT_AGAINST_BURNS_Name = Pommade contre les brûlures
+OINTMENT_AGAINST_BURNS_Description = Une pommade qui aide à soigner les brûlures.
+
+OINTMENT_AGAINST_SEVERE_BURNS_Name = Onguent contre les brûlures sévères
+OINTMENT_AGAINST_SEVERE_BURNS_Description = Un onguent qui soigne les brûlures sévères.
+
+AGOUNIA_EMBROCATION_Name = Embrocation d'Agounia
+AGOUNIA_EMBROCATION_Description = Cette embrocation peut soigner les brûlures les plus sévères et offre une protection contre le feu.
+
+CREAM_AGAINST_COLD_Name = Crème contre le froid
+CREAM_AGAINST_COLD_Description = Une crème contre le froid particulièrement efficace.
+
+WARMING_OINTMENT_Name = Pommade chaleureuse
+WARMING_OINTMENT_Description = Une pommade qui aide qui protège du froid tout en réchauffant le corps.
+
+OINTMENT_AGAINST_CHILBLAINS_Name = Onguent contre les engelures
+OINTMENT_AGAINST_CHILBLAINS_Description = Un onguent qui soigne les engelures.
+
+UII_EMBROCATION_Name = Embrocation bénie par UII
+UII_EMBROCATION_Description = Cette embrocation peut soigner les engelures les plus sévères et offre une protection contre les froids les plus glacials.
+
+MEDICINAL_HERBS_Name = Herbes médicinales
+MEDICINAL_HERBS_Description = Des herbes au propriété médicinales.
+
+RED_MUSHROOM_Name = Champignon rouge
+RED_MUSHROOM_Description = Ce champignon permet de soigner de manière efficace des blessures.
+
+LIFE_CRYSTAL_Name = Cristal de Vie
+LIFE_CRYSTAL_Description = Les légendes racontent que ce cristal fut utilisé par les meilleurs guérisseurs.
+
+LEMON_Name = Citron
+LEMON_Description = Le citron peut aider contre la toux.
+
+TRANSPARENT_MUSHROOM_Name = Champignon transparent
+TRANSPARENT_MUSHROOM_Description = On peux voir à travers ce champignon.
+
+BLINDNESS_MUSHROOM_Name = Champignon de Cécité
+BLINDNESS_MUSHROOM_Description = Certaines rumeurs affirment que ce champignon peut rendre aveugle.
+
+STRANGE_MUSHROOM_Name = Champignon étrange
+STRANGE_MUSHROOM_Description = L'odeur de ce champignon pourrait faire vomir n'importe qui.
+
+BALANCE_CRYSTAL_Name = Cristal d'équilibre
+BALANCE_CRYSTAL_Description = Ce cristal contient un nombre équilibré d'énergies.
+
+MADNESS_CRYSTAL_Name = Cristal de folie
+MADNESS_CRYSTAL_Description = Un seul regard sur ce cristal peux rendre n'importe qui fou. 
+
+BROKEN_CRYSTAL_Name = Cristal brisé
+BROKEN_CRYSTAL_Description = Ce cristal est brisé. Il ne peux plus contenir d'énergie.
+
+DARKNESS_CRYSTAL_Name = Cristal de la nuit
+DARKNESS_CRYSTAL_Description = Un cristal remplit d'énergie lunaire.
+
+ENERGY_CRYSTAL_Name = Cristal d'énergie
+ENERGY_CRYSTAL_Description = Ce cristal est surchargé en énergie.
+
+LOVE_CRYSTAL_Name = Cristal d'amour
+LOVE_CRYSTAL_Description = Ce cristal contient beaucoup d'énergies positives.
+
+MINT_Name = Menthe
+MINT_Description = La menthe permet de soigner certains poisons.
+
+STRAWBERRY_Name = Fraise
+STRAWBERRY_Description = Les fraises permettent de soigner certains maux de gorge.
+
+BLUEBERRY_Name = Myrtille
+BLUEBERRY_Description = Ces baies aident à soigner des poisons graves.
+
+BLACK_RADISH_Name = Radis noir
+BLACK_RADISH_Description = Le radis noir permet une meilleur digestion.
+
+ROSE_Name = Rose
+ROSE_Description = Les roses sont un symbole courant d'amour.
+
+NIGHT_FLOWER_Name = Fleur de la nuit
+NIGHT_FLOWER_Description = Cette fleur ne pousse que la nuit. Elle est la nourriture favorite des chauves souris.
+
+EVIL_FLOWER_Name = Fleur du mal
+EVIL_FLOWER_Description = Manger cette fleur provoque des envis de vomir assez importante.
+
+ARTICHOKE_Name = Artichaut
+ARTICHOKE_Description = Un artichaut permet un meilleur transit intestinal.
+
+WEED_Name = Canabis
+WEED_Description = Cette plante peut vous faire voir de nouvelles couleurs.
+
+COFFEE_BEAN_Name = Graine de café
+COFFEE_BEAN_Description = Ces graines permettent de créer du café de qualité.
+
+MISTLETOE_Name = Gui
+MISTLETOE_Description = Les légendes racontent que s'embrasser sous du gui est signe d'un vie de couple longue.
+
+BAT_WING_Name = Aile de chauve souris
+BAT_WING_Description = Une aile de chauve souris. Je me demande ou se trouve le reste de la créature.
+
+TRANSPARENT_FLOWER_Name = Fleur transparente
+TRANSPARENT_FLOWER_Description = Cette fleur est presque totalement invisible.
+
+BLINDNESS_FLOWER_Name = Fleur d'auveuglement
+BLINDNESS_FLOWER_Description = Une fleur aux couleurs si vives qu'elle peux rendre votre vision trouble.
+
+SUGAR_Name = Sucre
+SUGAR_Description = Le sucre permet de regagner un peu d'énergie dans une journée bien remplie.
+
+TORMENT_OIL_Name = Huile de tourmente
+TORMENT_OIL_Description = Cette huile a l'air étrange. Il faudrait être fou pour la boire.
+
+GARLIC_Name = Ail
+GARLIC_Description = L'ail est connu pour faire fuir certaines créatures de la nuit.
+
+ONION_Name = Onion
+ONION_Description = Un onion peux faire pleurer même la plus puissante des créatures.
+
+OPIUM_FLOWER_Name = Fleur d'Opium
+OPIUM_FLOWER_Description = Cette fleur permet de créer de puissantes drogues.
+
+GINGER_Name = Gingembre
+GINGER_Description = Cette plante permet de regagner un peu d'énergie.
